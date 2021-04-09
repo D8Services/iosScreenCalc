@@ -36,8 +36,8 @@ def screenCal(model):
 		if model == "iPad2,1":
 			y = 1024
 			x = 768
-    #..... continue for list of iOS devices hard coded to return an x and y value
-  return x,y
+    	#..... continue for list of iOS devices hard coded to return an x and y value
+  	return x,y
 
 #Testing
 #x, y = screenCal(searchString)
