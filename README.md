@@ -107,3 +107,5 @@ else:
 	print("No - lets not wipe out our known good file")
 	print("Do Nothing. Exiting.")
 ```
+
+Essentially as pyinstaller creates an app based on the platform we would need to have a file outside of the usual python imports, this gives the ability to update an Apps basic operation without needed to replace the app. Pretty easy to replace the app I know, but one web page update and your done. Lets save the change requests for a bigger change than an iOS screen update.
