@@ -190,6 +190,18 @@ def screenCal(model):
 	if model == "iPad13,2":
 		y = 2360
 		x = 1640
+	if model == "iPad13,4":
+		y = 2388
+		x = 1668
+	if model == "iPad13,6":
+		y = 2388
+		x = 1668
+	if model == "iPad13,8":
+		y = 2732
+		x = 2048
+	if model == "iPad13,10":
+		y = 2732
+		x = 2048
 	if model == "iPhone1,1":
 		y = 320
 		x = 480
