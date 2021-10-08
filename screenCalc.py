@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-	
+
 def screenCal(model):
 	if model == "iPad1,1":
 		y = 1024
